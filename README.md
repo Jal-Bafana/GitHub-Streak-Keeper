@@ -1,6 +1,6 @@
 # 🔥 GitHub Streak Keeper
 
-> ⚠️ **Important Disclaimer**: This tool is designed for genuine streak maintenance when you haven't had time to code, not for artificial contribution inflation. Use responsibly and remember that real coding and learning should always be your priority!
+> ⚠️ **Important Disclaimer**: This tool is designed for educational purposes only, not for artificial contribution inflation. Use responsibly and remember that real coding and learning should always be your priority!
 
 A simple Python script to maintain your GitHub contribution streak by automatically creating commits when you haven't done any real work for the day.
 
