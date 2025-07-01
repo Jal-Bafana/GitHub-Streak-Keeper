@@ -1,17 +1,17 @@
-# 🔥 GitHub Streak Keeper
+# GitHub Streak Helper
 
-> ⚠️ **Important Disclaimer**: This tool is designed for educational purposes only, not for artificial contribution inflation. Use responsibly and remember that real coding and learning should always be your priority!
+> ⚠️⚠️⚠️ **Important Disclaimer**: This tool is designed for educational purposes and genuine streak maintenance when you haven't had time to code, not for artificial contribution inflation. Use responsibly and remember that real coding and learning should always be your priority!
 
 A simple Python script to maintain your GitHub contribution streak by automatically creating commits when you haven't done any real work for the day.
 
-## 📋 What it does
+## What it does
 
 - Makes random changes to README.md with timestamps
 - Creates commits with meaningful messages
 - Pushes to your private repository
 - Keeps your GitHub contribution graph green! 🟢
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.x installed
@@ -52,7 +52,7 @@ A simple Python script to maintain your GitHub contribution streak by automatica
    git push -u origin main
    ```
 
-## 🎯 Usage
+## Usage
 
 ### Basic Usage
 ```bash
@@ -76,7 +76,7 @@ Then run:
 python streak_keeper.py
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 ### Customizing Number of Commits
 Open `streak_keeper.py` and modify:
@@ -94,7 +94,7 @@ activities = [
 ]
 ```
 
-## 📁 File Structure
+## File Structure
 ```
 your-repo/
 ├── README.md
@@ -143,7 +143,7 @@ py streak_keeper.py
 chmod +x streak_keeper.py
 ```
 
-## 📊 Example Output
+##  Example Output
 
 ```
 🚀 GitHub Streak Keeper Started
@@ -162,31 +162,27 @@ Success: git push origin main
 🔥 Your GitHub streak is safe for today!
 ```
 
-## 🎯 Best Practices
+## Best Practices
 
 1. **Use a private repository** - Keep your streak maintenance private
 2. **Run manually daily** - Don't automate it completely; maintain the discipline of daily engagement
 3. **Use responsibly** - This is for genuine streak maintenance, not artificial inflation
 4. **Keep backups** - Your actual code should be in separate repositories
 
-## ⚠️ Important Notes
+## Important Notes
 
 - **GitHub streaks are consecutive days only** - You can't backfill missed days
 - **Run before midnight** - Make sure to run the script before your day ends
 - **Private repos recommended** - Keep your streak maintenance discrete
 - **Manual execution** - Run it yourself to maintain daily coding discipline
 
-## 🤝 Contributing
+## Contributing
 
 This is a simple utility script. Feel free to:
 - Fork and customize for your needs
 - Add features like different file modifications
 - Create pull requests for improvements
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
-**Happy Streaking! 🔥🚀**
+Made with 💙 by Jal Bafana
